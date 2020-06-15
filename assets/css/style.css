@@ -994,21 +994,17 @@ body.mobile-nav-active #mobile-nav-toggle {
   opacity: 0;
   line-height: 1;
   text-align: center;
-  width: 36px;
-  height: 36px;
-  background: #fff;
-  border-radius: 50%;
   transition: 0.2s linear;
 }
 
 #portfolio .portfolio-item figure .link-preview i, #portfolio .portfolio-item figure .link-details i {
   padding-top: 6px;
-  font-size: 22px;
+  font-size: 50px;
   color: #333;
 }
 
 #portfolio .portfolio-item figure .link-preview:hover, #portfolio .portfolio-item figure .link-details:hover {
-  background: #18d26e;
+  background: #c2f88f;
 }
 
 #portfolio .portfolio-item figure .link-preview:hover i, #portfolio .portfolio-item figure .link-details:hover i {
@@ -1565,3 +1561,4 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ddd;
 }
+
